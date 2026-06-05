@@ -1,5 +1,5 @@
-<h1 class="text-black">⚽ FIFA 2026 Web</h1>
-Proyecto de desarrollo web enfocado en la interfaz de usuario para el mundial 2026.
+<h1 styles="text-color: red">⚽ FIFA 2026 Web</h1>
+<h3>Proyecto de desarrollo web enfocado en la interfaz de usuario para el mundial 2026.</h3>
 
 <img width="1920" height="1080" alt="JFB4Z6N5YBENBJ74ZBE2B5PFSE" src="https://github.com/user-attachments/assets/2ac1955c-2582-476b-8ac7-3069f61b5913" />
 
