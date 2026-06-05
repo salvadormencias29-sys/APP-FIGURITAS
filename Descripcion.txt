@@ -1,0 +1,15 @@
+--------- MENCIAS ALIAGA PAOLO SALVADOR ---------
+C.I.: 12861919
+R.U.: 1895351
+MATERIA: INF - 122 PROGRAMACION WEB II
+
+========== ENLACES ==========
+
+===   FIGMA   ===
+
+https://www.figma.com/design/rUbA2Sg08tSVBvhDPi89Yt/Munidial?m=auto&t=9VfVtTWhRNnV3dgQ-1
+
+
+===   REACT   ===
+
+https://codesandbox.io/p/sandbox/thirsty-frog-j6535f
